@@ -86,52 +86,52 @@ users ={
             'roles': [1],
             'permissions': ['can_create_user', 'can_delete_user', 'can_update_user',
                         'can_create_service', 'can_delete_service', 'can_update_service',
-                        'can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'];
-                    };
+                        'can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'],
+                    },
         'Parth': {
             'roles': [1],
             'permissions': ['can_create_user', 'can_delete_user', 'can_update_user',
                         'can_create_service', 'can_delete_service', 'can_update_service',
-                        'can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'];
-                    };
+                        'can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'],
+                    },
         'Ritika':{
             'roles': [2],
             'permissions': ['can_create_user', 
                         'can_create_service', 'can_delete_service', 'can_update_service',
-                        'can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'];
-                    };   
+                        'can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'],
+                    },
         'Shiva':{
             'roles': [2],
             'permissions': ['can_create_user', 
                         'can_create_service', 'can_delete_service', 'can_update_service',
-                        'can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'];
-                    }; 
+                        'can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'],
+                    },
         'Sandeep':{
             'roles': [3],
-            'permissions': ['can_create_service', 'can_delete_service', 'can_update_service'];
-                    }; 
+            'permissions': ['can_create_service', 'can_delete_service', 'can_update_service'],
+                    },
         'Srikant':{
             'roles': [4],
-            'permissions': ['can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'];
-                    }; 
+            'permissions': ['can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'],
+                    },
         'Vishal':{
             'roles': [3,5],
             'permissions': [ 
                         'can_create_service', 'can_delete_service', 'can_update_service',
-                        'can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'];
-                    }; 
+                        'can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'],
+                    },
         'Rita':{
             'roles': [3,5],
             'permissions': [
                         'can_create_service', 'can_delete_service', 'can_update_service',
-                        'can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'];
-                    }; 
+                        'can_create_service_instance', 'can_delete_service_instance', 'can_update_service_instance'],
+                    },
         'Swagata':{
             'roles': [4,6],
-            'permissions': ['can_update_service','can_update_service_instance'];
-                    }; 
+            'permissions': ['can_update_service','can_update_service_instance'],
+                    },
         'Akshay':{
             'roles': [4,6],
-            'permissions': [''can_update_service','can_update_service_instance'];
-                    }; 
+            'permissions': ['can_update_service','can_update_service_instance'],
+                    },
         }
