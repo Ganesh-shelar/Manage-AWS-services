@@ -22,9 +22,7 @@ tags
 Status
 updated_on
 updated_by
-'''
 
-'''
 1. Create 10 decorators
 2. write a decorator function & 3-4 functions to check user have that permission or not
 3. Create list of permissions (at least 15 permissions)
